@@ -13,4 +13,3 @@ Extra features:
 -Some variants can be added, to make the game more interesting such as All Pawns Visible or Moving Bombs. These can be selected through the menubar and can  be mixed and matched. Restart the game to put your variant selection into effect.
 -Link to the official Stratego rules can be accessed through the Menubar
 
-Enjoy
