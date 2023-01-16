@@ -4,9 +4,13 @@ This game was a designed as part of a final project for my Advanced Java Program
 The game is to be played with 2 players that are sitting across from each other passing the computer over in between each turn.
 
 Controls:
+
 Arrows- to move around the board
+
 Enter- to select/deselect a tile
+
 D- used to confirm a turn
+
 0-9- Keys used to choose from 10 different preset starting positions
 
 Extra features:
