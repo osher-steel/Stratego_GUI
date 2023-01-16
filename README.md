@@ -1,6 +1,6 @@
 # stratego_single_player
 
-This game was a designed as part of a final project for my Advanced Java Programming class with my classmate Christina Ngyuen.
+This game was a designed as part of a final project for my Advanced Java Programming class with my classmate Christina Nguyen.
 The game is to be played with 2 players that are sitting across from each other passing the computer over in between each turn.
 
 Controls:
